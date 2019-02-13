@@ -2,6 +2,8 @@
 
 build instructions
     npm install
+    
+    
 Run instructions
     ionic serve
 
