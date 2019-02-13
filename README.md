@@ -1,10 +1,10 @@
 # demoFairytrail
 
-build instructions
+build instructions:
     npm install
     
     
-Run instructions
+Run instructions:
     ionic serve
 
 
